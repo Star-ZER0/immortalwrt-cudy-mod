@@ -1,11 +1,13 @@
 <img src="https://avatars.githubusercontent.com/u/53193414?s=200&v=4" alt="logo" width="200" height="200" align="right">
 
-# Project ImmortalWrt
+# Project ImmortalWrt (Cudy TR3000 V1 mod version)
 
 ImmortalWrt is a fork of [OpenWrt](https://openwrt.org), with more packages ported, more devices supported, default optimized profiles and localization modifications for mainland China users.<br/>
 Compared to upstream, we allow to use (non-upstreamable) modifications/hacks to provide better feature/performance/support.
 
 Default login address: http://192.168.1.1 or http://immortalwrt.lan, username: __root__, password: _none_.
+
+This repo is modded to increase Cudy TR3000 V1 ubi partition useable space, [master branch](https://github.com/Star-ZER0/immortalwrt-cudy-mod/tree/maximize) is already tested on ubootmod and the [maximize branch](https://github.com/Star-ZER0/immortalwrt-cudy-mod/tree/maximize) is not tested yet.
 
 ## Download
 Built firmware images are available for many architectures and come with a package selection to be used as WiFi home router. To quickly find a factory image usable to migrate from a vendor stock firmware to ImmortalWrt, try the *Firmware Selector*.
