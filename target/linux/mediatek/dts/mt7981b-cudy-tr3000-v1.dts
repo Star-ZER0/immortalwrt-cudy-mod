@@ -199,7 +199,7 @@
 
 			partition@5C0000 {
 				label = "ubi";
-				reg = <0x5C0000 0x7000000>;
+				reg = <0x5C0000 0x7A40000>;
 				compatible = "linux,ubi";
 			};
 		};
