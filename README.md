@@ -7,7 +7,7 @@ Compared to upstream, we allow to use (non-upstreamable) modifications/hacks to 
 
 Default login address: http://192.168.1.1 or http://immortalwrt.lan, username: __root__, password: _none_.
 
-This repo is modded to increase Cudy TR3000 V1 ubi partition useable space, [master branch](https://github.com/Star-ZER0/immortalwrt-cudy-mod/tree/master) is already tested on ubootmod and the [maximum branch](https://github.com/Star-ZER0/immortalwrt-cudy-mod/tree/maximum) is not tested yet.
+This repo is modded to increase Cudy TR3000 V1 ubi partition useable space, [master branch (112m)](https://github.com/Star-ZER0/immortalwrt-cudy-mod/tree/master) is already tested on ubootmod and the [maximum branch (119.75m)](https://github.com/Star-ZER0/immortalwrt-cudy-mod/tree/maximum) is not tested yet.
 
 ## Download
 Built firmware images are available for many architectures and come with a package selection to be used as WiFi home router. To quickly find a factory image usable to migrate from a vendor stock firmware to ImmortalWrt, try the *Firmware Selector*.
