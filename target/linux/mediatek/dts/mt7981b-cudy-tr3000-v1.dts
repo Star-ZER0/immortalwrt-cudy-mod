@@ -7,8 +7,8 @@
 #include "mt7981.dtsi"
 
 / {
-	model = "Cudy TR3000 v1";
-	compatible = "cudy,tr3000-v1", "mediatek,mt7981-spim-snand-rfb";
+	model = "Cudy TR3000 Maximum";
+	compatible = "cudy,tr3000-maximum", "mediatek,mt7981-spim-snand-rfb";
 
 	aliases {
 		label-mac-device = &gmac1;
